@@ -62,7 +62,7 @@ public class tasks {
         return content;
     }
 
-    public void setConted(String content) {
+    public void setContent(String content) {
         this.content = content;
     }
 
